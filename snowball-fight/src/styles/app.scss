@@ -1,3 +1,15 @@
+@import "colors";
+@import "reset";
+@import "scales";
+@import "typography";
+
+
 h1 {
-  color:red
+  color:red;
+}
+
+.palette{
+  display:flex;
+  list-style: none
+
 }
